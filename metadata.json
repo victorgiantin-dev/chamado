@@ -1,0 +1,6 @@
+{
+  "name": "SysManut - Chamados de Manutenção",
+  "description": "Sistema industrial para abertura de chamados técnicos por operadores e encerramento de manutenções por mecânicos com integração pronta para Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
